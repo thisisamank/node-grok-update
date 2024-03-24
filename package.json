@@ -16,9 +16,9 @@
   "author": "Andrey Chausenko",
   "license": "ISC",
   "dependencies": {
+    "oniguruma": "^7.2.3",
     "async": "1.5.2",
-    "collections": "3.0.0",
-    "oniguruma": "6.1.0"
+    "collections": "3.0.0"
   },
   "devDependencies": {
     "chai": "3.2.0",
